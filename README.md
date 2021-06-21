@@ -7,7 +7,7 @@
   
     `cd downloads` 
     
-    - please note that you must press enter after typing every command.
+    - please note that you must press "enter" after typing every command.
   - After that, we must open the folder "tictactoe-main":
      
     `cd tictactoe-main`
