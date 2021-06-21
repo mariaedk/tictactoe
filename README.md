@@ -11,6 +11,9 @@
   - After that, we must open the folder "tictactoe-main":
      
     `cd tictactoe-main`
+  - Enter tictactoe-main again:
+  
+    `cd tictactoe-main`
     
   - Done that, type:
 
