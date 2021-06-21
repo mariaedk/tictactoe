@@ -3,23 +3,23 @@
 -   In order to execute:
   - Go to the directory on which you have downloaded the folder on. Extract it to a folder with the same name.
 ![](https://github.com/mariaedk/tictactoe/blob/main/images/example1.jpg)
-  - In this example's case, it has been downloaded on "Downloads". Open your terminal, and go to the directory which contains the folder by typing:
+  - In this example's case, it has been downloaded on "Downloads". Open your terminal, and go to the directory which contains the folder by typing and pressing enter:
   
     `cd downloads`
     
-  - After that, we must open the folder "tictactoe-main":
+  - After that, we must open the folder "tictactoe-main", press enter:
      
     `cd tictactoe-main`
     
-  - Done that, type:
+  - Done that, type and press enter:
 
      `cd trabalho-final`
      
-  - Now we must make generate classes, we can make that by a simple command:
+  - Now we must generate classes, we can make that by a simple command, press enter:
   
       `javac JogoDaVelha.java`
       
-  - And then finally to play the game: 
+  - And then finally to play the game, press enter: 
   
       `java JogoDaVelha`
       
