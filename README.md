@@ -1,4 +1,8 @@
 # TicTacToe
+- You must have a JDK installed. To check if you do:
+  `java -version`
+  
+  If you dont, install here: https://adoptopenjdk.net/
 - Download the folder.
 -   In order to execute:
   - Go to the directory on which you have downloaded the folder on. Extract it to a folder with the same name.
