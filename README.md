@@ -25,4 +25,4 @@
       
  - And... Enjoy the game ! :)
     
-## NOTE: this project was elaborated by me and other 2 students from my course, under the supervision of our introduction to programming teacher.
+## NOTE: this project was elaborated by ME and other 2 STUDENTS from my course, under the supervision of our introduction to programming teacher.
