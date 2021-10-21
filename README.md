@@ -33,4 +33,3 @@
       
  - And... Enjoy the game ! :)
     
-## NOTE: this project was elaborated by ME and other 2 STUDENTS from my course, under the supervision of our introduction to programming teacher.
