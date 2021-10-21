@@ -1,5 +1,5 @@
 # TicTacToe
-- You must have a JDK installed. To check if you do, open the terminal and type:
+- You must have a JDK installed. To check if you do, open the terminal (by typing terminal on windows search) and type:
   `java -version`
   
   If you dont, install here: https://adoptopenjdk.net/
