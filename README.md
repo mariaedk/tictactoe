@@ -1,4 +1,5 @@
 # TicTacToe
+- This project was made in June/2021, on my Introduction to Programming classes using Java language.
 - You must have a JDK installed. To check if you do, open the terminal (by typing terminal on windows search) and type:
   `java -version`
   
